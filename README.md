@@ -95,5 +95,4 @@ openFPGALoader -- a program to flash FPGA
 Mandatory or optional arguments to long options are also mandatory or optional
 for any corresponding short options.
 
-Report bugs to <gwenhael.goavec-merou@trabucayre.com>.
 ```
